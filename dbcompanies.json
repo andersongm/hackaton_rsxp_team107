@@ -1,0 +1,98 @@
+{
+    "companies": [
+        {
+            "id": 1,
+            "title": "Empresa 1",
+            "courses": [
+                {
+                    "id": 1,
+                    "title": "Aprenda NodeJS sem complicações"
+                }
+            ],
+            "students": [
+                {
+                    "id": 1,
+                    "name": "Renato Franco",
+                    "email": "blabla@gmail.com",
+                    "interests": [
+                        "node",
+                        "reactjs",
+                        "react-native",
+                        "mongo",
+                        "integração contínua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Empresa 2",
+            "courses": [
+                {
+                    "id": 1,
+                    "titulo": "Aprenda ReactJS do zero"
+                }
+            ],
+            "students": [
+                {
+                    "id": 1,
+                    "name": "Renato Franco",
+                    "email": "blabla@gmail.com",
+                    "interests": [
+                        "node",
+                        "reactjs",
+                        "react-native",
+                        "mongo",
+                        "integração contínua"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Empresa 3",
+            "courses": [
+                {
+                    "id": 1,
+                    "title": "Aprenda HTML sem complicações"
+                }
+            ],
+            "students": [
+                {
+                    "id": 2,
+                    "name": "Matheus",
+                    "email": "matheus@gmail.com",
+                    "interests": [
+                        "SQL",
+                        "HTML",
+                        "CSS",
+                        "JS"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Empresa 4",
+            "courses": [
+                {
+                    "id": 1,
+                    "title": "Aprenda JS (ES6)"
+                }
+            ],
+            "students": [
+                {
+                    "id": 2,
+                    "name": "Matheus",
+                    "email": "matheus@gmail.com",
+                    "interests": [
+                        "SQL",
+                        "HTML",
+                        "CSS",
+                        "JS"
+                    ]
+                }
+            ]
+        }
+    ]
+}
