@@ -29,7 +29,7 @@
             "title": "Empresa 2",
             "courses": [
                 {
-                    "id": 1,
+                    "id": 2,
                     "titulo": "Aprenda ReactJS do zero"
                 }
             ],
@@ -53,7 +53,7 @@
             "title": "Empresa 3",
             "courses": [
                 {
-                    "id": 1,
+                    "id": 3,
                     "title": "Aprenda HTML sem complicações"
                 }
             ],
@@ -76,7 +76,7 @@
             "title": "Empresa 4",
             "courses": [
                 {
-                    "id": 1,
+                    "id": 4,
                     "title": "Aprenda JS (ES6)"
                 }
             ],
@@ -158,5 +158,27 @@
             }
           ]
         }
-      ]
+      ],
+    "courses" :[
+      {
+        "id": 1,
+        "title": "Aprenda NodeJS sem complicações",
+        "companieId": 1
+      },
+      {
+        "id": 2,
+        "title": "Aprenda ReactJS do zero",
+        "companieId":2
+      },
+      {
+        "id": 3,
+        "title": "Aprenda HTML sem complicações",
+        "companieId":3
+      },
+      {
+        "id": 4,
+        "title": "Aprenda JS (ES6)",
+        "companieId":4
+      }
+    ]
 }
